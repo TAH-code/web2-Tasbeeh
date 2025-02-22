@@ -1,0 +1,70 @@
+
+.hero-section {
+    padding: 100px 0;
+    background-color: rgba(137, 43, 226, 0.066);
+}
+.logo{
+    background-color: rgba(0, 128, 0, 0.04);
+}
+.feature-section {
+    padding: 60px 0;
+}
+.feature-icon {
+    width: 60px;
+    height: 60px;
+    background-color: #c4c4c4;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto 15px;
+}
+.testimonial {
+    background-color: #fef8e8;
+    padding: 50px;
+    text-align:start;
+    font-weight: bold;
+}    
+.video-container {
+    width: 100%; 
+    max-width: 800px;
+    margin: 0 auto;
+}
+.video-container iframe {
+    width: 100%;
+    height: 450px; 
+}
+.profile-section{
+    display: flex;
+    justify-self:baseline;
+}
+.profile-pic {
+    width: 80px;
+    height: 80px;
+    background-color: #c4c4c4;
+    border-radius: 50%;
+}
+.stars {
+    color: #ffcc00;
+    font-size: 18px;
+}
+.cta-section{
+    padding-top: 20px;
+    background-color: rgba(137, 43, 226, 0.066);
+    height: 250px;
+
+}
+.footer {
+    background-color: white;
+    padding: 40px 0;
+    text-align: center;
+}
+.footer a {
+    text-decoration: none;
+    color: black;
+    margin: 0 10px;
+}
+.social-icons a {
+    margin: 0 10px;
+    font-size: 20px;
+}
